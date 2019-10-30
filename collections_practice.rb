@@ -10,7 +10,7 @@ def sort_array_asc(array)
   end
 end
 
-
+sort_array_desc([25, 7, 14])
 
 def sort_array_char_count(array)
   array.sort do |left, right|
